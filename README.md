@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 How to share data with a statistician
 ===========
 
@@ -188,3 +189,9 @@ Contributors
 * [Nick Reich](http://people.umass.edu/nick/) - Added tips on storing data as text.
 
 
+=======
+datasciencecoursera
+===================
+
+repository for data scientist toolkit coursera course
+>>>>>>> f6f67fce0bc1af8c5b29173e06d1865f6eb80a31
